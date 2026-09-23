@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#202124" rx="96"/>
+  <!-- BatBlack Pixel Art Logo -->
+  <g fill="#FFFFFF" transform="translate(64, 96) scale(10.666)">
+    <!-- Ears -->
+    <rect x="15" y="6" width="2" height="4"/>
+    <rect x="21" y="6" width="2" height="4"/>
+    <!-- Head and Body -->
+    <rect x="14" y="10" width="10" height="12"/>
+    <rect x="13" y="12" width="12" height="8"/>
+    <!-- Wings Left -->
+    <rect x="10" y="8" width="4" height="2"/>
+    <rect x="7" y="10" width="5" height="2"/>
+    <rect x="4" y="12" width="6" height="3"/>
+    <rect x="2" y="15" width="6" height="3"/>
+    <rect x="4" y="18" width="5" height="3"/>
+    <rect x="7" y="21" width="4" height="2"/>
+    <!-- Wings Right -->
+    <rect x="24" y="8" width="4" height="2"/>
+    <rect x="26" y="10" width="5" height="2"/>
+    <rect x="28" y="12" width="6" height="3"/>
+    <rect x="30" y="15" width="6" height="3"/>
+    <rect x="29" y="18" width="5" height="3"/>
+    <rect x="27" y="21" width="4" height="2"/>
+    <!-- Eyes -->
+    <rect x="16" y="12" width="2" height="2" fill="#202124"/>
+    <rect x="20" y="12" width="2" height="2" fill="#202124"/>
+    <!-- Fangs -->
+    <rect x="17" y="17" width="1" height="2" fill="#202124"/>
+    <rect x="20" y="17" width="1" height="2" fill="#202124"/>
+  </g>
+</svg>
