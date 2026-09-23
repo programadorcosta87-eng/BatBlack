@@ -33,10 +33,10 @@ A proposta é oferecer uma experiência leve, divertida e 100% no navegador, com
 
 ## 🛠️ Tecnologias
 
-* React 19
+* JavaScript
 * TypeScript
-* Vite
-* Tailwind CSS 4
+* CSS
+* HTML
 * Canvas 2D
 * vite-plugin-pwa
 * Progressive Web App (PWA)
