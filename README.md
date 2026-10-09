@@ -2,7 +2,6 @@
 
 Jogo de corrida infinita em pixel art 8-bit do morcego BatBlack.
 
-🔗 Acesse o projeto: https://batblack.netlify.app/
 
 ---
 
