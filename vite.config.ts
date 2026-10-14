@@ -12,7 +12,7 @@ export default defineConfig(() => {
       VitePWA({
         registerType: 'autoUpdate',
         injectRegister: null,
-        includeAssets: ['apple-touch-icon.png', 'icon.svg'],
+        includeAssets: ['images/apple-touch-icon.png', 'images/icon.svg'],
         manifest: {
           id: '/',
           name: 'BatBlack',
@@ -27,19 +27,19 @@ export default defineConfig(() => {
           categories: ['games', 'arcade'],
           icons: [
             {
-              src: '/pwa-192x192.png',
+              src: '/images/pwa-192x192.png',
               sizes: '192x192',
               type: 'image/png',
               purpose: 'any',
             },
             {
-              src: '/pwa-512x512.png',
+              src: '/images/pwa-512x512.png',
               sizes: '512x512',
               type: 'image/png',
               purpose: 'any',
             },
             {
-              src: '/pwa-maskable-512x512.png',
+              src: '/images/pwa-maskable-512x512.png',
               sizes: '512x512',
               type: 'image/png',
               purpose: 'maskable',
