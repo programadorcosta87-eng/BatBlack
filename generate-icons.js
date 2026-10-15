@@ -129,7 +129,7 @@ function batPixelGenerator(isMaskable) {
   };
 }
 
-const publicDir = path.resolve('public');
+const publicDir = path.resolve('public/images');
 if (!fs.existsSync(publicDir)) {
   fs.mkdirSync(publicDir, { recursive: true });
 }
