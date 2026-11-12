@@ -32,13 +32,15 @@ A proposta é oferecer uma experiência leve, divertida e 100% no navegador, com
 
 ## 🛠️ Tecnologias
 
-* JavaScript
 * TypeScript
-* CSS
-* HTML
-* Canvas 2D
-* vite-plugin-pwa
-* Progressive Web App (PWA)
+* React 19
+* Vite
+* Tailwind CSS 4
+* HTML5 Canvas 2D — renderização do jogo
+* Motion — animações de interface
+* vite-plugin-pwa / Progressive Web App (PWA)
+* JavaScript e CSS para recursos auxiliares
+* Lucide React — ícones
 
 ---
 
